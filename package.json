@@ -1,0 +1,11 @@
+{
+  "name": "companyquarters",
+  "version": "1.0.0",
+  "description": "App that offers brief information on US companies and quarterly earning reports. Specifically, whether a queried company beat or missed earnings that quarter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
